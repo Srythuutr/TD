@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: f15952b1f838a4a45a65ca755db56dd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3088006596857697126
+    second: Heroine_idLE_0
+  - first:
+      213: -2228568048691570721
+    second: Heroine_idLE_1
+  - first:
+      213: -1921285264473162684
+    second: Heroine_idLE_2
+  - first:
+      213: 3444988752281882955
+    second: Heroine_idLE_3
+  - first:
+      213: -2898120295792656349
+    second: Heroine_idLE_4
+  - first:
+      213: 5313753616081614640
+    second: Heroine_idLE_5
+  - first:
+      213: -1364635941694450553
+    second: Heroine_idLE_6
+  - first:
+      213: 3770770280742772413
+    second: Heroine_idLE_7
+  - first:
+      213: -198018249910419488
+    second: Heroine_idLE_8
+  - first:
+      213: 265725602840022622
+    second: Heroine_idLE_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heroine_idLE_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 285
+        width: 128
+        height: 264
+      alignment: 9
+      pivot: {x: 0.7952626, y: 0.90184623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66314cd83adcada20800000000000000
+      internalID: 3088006596857697126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 400
+        width: 124
+        height: 166
+      alignment: 9
+      pivot: {x: 0.48395857, y: 0.09258629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd714fbca298211e0800000000000000
+      internalID: -2228568048691570721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 446
+        width: 61
+        height: 140
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c72ea3b393655e0800000000000000
+      internalID: -1921285264473162684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 470
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b415af2940f0fcf20800000000000000
+      internalID: 3444988752281882955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 218
+        width: 141
+        height: 165
+      alignment: 9
+      pivot: {x: 0.46238038, y: 0.102172576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320cde422fec7c7d0800000000000000
+      internalID: -2898120295792656349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 301
+        width: 33
+        height: 127
+      alignment: 9
+      pivot: {x: 0.33926114, y: 0.8132502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037fd76a2ce3eb940800000000000000
+      internalID: 5313753616081614640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 284
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784529757d6df0de0800000000000000
+      internalID: -1364635941694450553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 273
+      alignment: 9
+      pivot: {x: 0.70179653, y: 0.8958847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed5498797745430800000000000000
+      internalID: 3770770280742772413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 47
+        width: 174
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5419166, y: 0.8315232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7b0b637f704df0800000000000000
+      internalID: -198018249910419488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_idLE_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 28
+        width: 79
+        height: 251
+      alignment: 9
+      pivot: {x: 0.4160701, y: 0.8856762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e8105270c00b300800000000000000
+      internalID: 265725602840022622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
